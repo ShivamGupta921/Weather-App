@@ -42,11 +42,7 @@ const apiKey = "YOUR_API_KEY";
 ## Credits
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
-- Icons by [Flaticon](https://www.flaticon.com/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
